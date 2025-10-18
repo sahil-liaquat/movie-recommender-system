@@ -18,6 +18,7 @@ A content-based movie recommendation system built with Streamlit that suggests s
 2. **Install required dependencies**:
 ```bash
 pip install streamlit requests pickle5 pandas numpy scikit-learn
+```
 
 ## 📊 Model Development (Jupyter Notebook)
 
